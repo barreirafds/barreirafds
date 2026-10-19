@@ -59,28 +59,28 @@ Throughout my studies, I've gained practical experience in Back-End, Full-Stack,
 
 ## 🚀 Featured Projects
 
-### 📋 DailyCore — Full-Stack Productivity App
+### 📋 DailyCore - Full-Stack Productivity App
 **Java | Spring Boot | React | PostgreSQL | Docker**
 
 A web application for managing daily routines and tasks, featuring REST APIs, database integration, automated testing, and CI/CD.
 
 [Backend Repository](https://github.com/barreirafds/DailyCoreBackEnd) • [Frontend Repository](https://github.com/barreirafds/DailyCoreFrontEnd)
 
-### 🍽️ DTMS — Restaurant Table Management
+### 🍽️ DTMS - Restaurant Table Management
 **C# | ASP.NET Core | Razor Pages | SQL Server**
 
 A restaurant management system supporting table status management, orders, authentication, and payment workflows.
 
 [View Repository](https://github.com/barreirafds/DTMS)
 
-### 💸 FundFlow — Personal Finance App
+### 💸 FundFlow - Personal Finance App
 **React Native | Node.js | Express | PostgreSQL**
 
 A university group project focused on personal finance management, including income and expense tracking, savings goals, and authentication.
 
 [View Repository](https://github.com/barreirafds/FundFlow)
 
-### 🎟️ TapBack — Festival Sustainability App
+### 🎟️ TapBack - Festival Sustainability App
 **Flutter | Dart | NFC | GitHub Actions**
 
 An ongoing mobile development project focused on festival payments and reusable cup returns through NFC-based interactions.
